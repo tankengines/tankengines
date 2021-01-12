@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there! 👋
+![alt text](https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 <!--
 **silhouetto/silhouetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
