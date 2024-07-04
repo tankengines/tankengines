@@ -1,7 +1,13 @@
-### Hello there! 👋
-![Hello there!](https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+# <div align="center"> Hello there! 👋 </div>
+
+<p align="center">
+  <img src="hello-there.webp" alt="Hello there!" />
+</p>
+
+<!-- ![Hello there!](https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif) -->
+
 <!--
-**silhouetto/silhouetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thomsng/thomsng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
